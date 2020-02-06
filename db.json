@@ -1,11 +1,11 @@
 {
     "posts": [
-      { "id": 0, "title": "Dune", "author": "Frank Herbert", "price":"8", "img":"/images/imgDune.jpg", "nb":"0"},
-      { "id": 1, "title": "Foundation", "author": "Isaac Asimov", "price":"6", "img":"/images/imgFoundation.jpg", "nb":"0" },
-      { "id": 2, "title": "Starship Troopers", "author": "Robert Heinlein", "price":"7", "img":"/images/imgStarship.jpg", "nb":"0" },
-      { "id": 3, "title": "Stand On Zanzibar", "author": "John Brunner", "price":"10", "img":"/images/imgZanzibar.jpg", "nb":"0" },
-      { "id": 4, "title": "Spin", "author": "Robert Charles Wilson", "price":"7", "img":"/images/imgSpin.jpg", "nb":"0" },
-      { "id": 5, "title": "Hyperion", "author": "Dan Simmons", "price":"8", "img":"/images/imgHyperion.jpg", "nb":"0" }
+      { "id": 0, "title": "Dune", "author": "Frank Herbert", "price":"8", "img":"https://aupaysdescavetrolls.files.wordpress.com/2017/08/dune_herbert.jpg?w=736", "nb":"0"},
+      { "id": 1, "title": "Foundation", "author": "Isaac Asimov", "price":"6", "img":"https://images-na.ssl-images-amazon.com/images/I/51yxLIsb43L._SX311_BO1,204,203,200_.jpg", "nb":"0" },
+      { "id": 2, "title": "Starship Troopers", "author": "Robert Heinlein", "price":"7", "img":"https://images-na.ssl-images-amazon.com/images/I/511QZM1C5SL._SX307_BO1,204,203,200_.jpg", "nb":"0" },
+      { "id": 3, "title": "Stand On Zanzibar", "author": "John Brunner", "price":"10", "img":"https://images-na.ssl-images-amazon.com/images/I/51K0wFJmnML._SX308_BO1,204,203,200_.jpg", "nb":"0" },
+      { "id": 4, "title": "Spin", "author": "Robert Charles Wilson", "price":"7", "img":"https://images-na.ssl-images-amazon.com/images/I/51ChBTGBPoL._SX307_BO1,204,203,200_.jpg", "nb":"0" },
+      { "id": 5, "title": "Hyperion", "author": "Dan Simmons", "price":"8", "img":"https://images-na.ssl-images-amazon.com/images/I/91cI7fKu0vL.jpg", "nb":"0" }
 
 
 
