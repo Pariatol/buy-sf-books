@@ -31,7 +31,7 @@ class App extends Component {
 
     let currentComponent = this;
     // axios.get('http://localhost:3001/posts')
-    axios.get('http://my-json-server.typicode.com/Pariatol/buy-sf-books/posts')
+    axios.get('https://my-json-server.typicode.com/Pariatol/buy-sf-books/posts')
         .then(function (response) {
           console.log(response.data);
           currentComponent.setState({
