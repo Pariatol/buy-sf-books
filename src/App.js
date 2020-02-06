@@ -30,7 +30,7 @@ class App extends Component {
     document.body.classList.add("mainBg");
 
     let currentComponent = this;
-    axios.get('http://localhost:3001/books')
+    axios.get('http://localhost:3001/posts')
         .then(function (response) {
           console.log(response.data);
           currentComponent.setState({

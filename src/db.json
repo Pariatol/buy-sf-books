@@ -1,5 +1,5 @@
 {
-    "books": [
+    "posts": [
       { "id": 0, "title": "Dune", "author": "Frank Herbert", "price":"8", "img":"/images/imgDune.jpg", "nb":"0"},
       { "id": 1, "title": "Foundation", "author": "Isaac Asimov", "price":"6", "img":"/images/imgFoundation.jpg", "nb":"0" },
       { "id": 2, "title": "Starship Troopers", "author": "Robert Heinlein", "price":"7", "img":"/images/imgStarship.jpg", "nb":"0" },
