@@ -1,19 +1,14 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
+    "books": [
+      { "id": 0, "title": "Dune", "author": "Frank Herbert", "price":"8", "img":"/images/imgDune.jpg", "nb":"0"},
+      { "id": 1, "title": "Foundation", "author": "Isaac Asimov", "price":"6", "img":"/images/imgFoundation.jpg", "nb":"0" },
+      { "id": 2, "title": "Starship Troopers", "author": "Robert Heinlein", "price":"7", "img":"/images/imgStarship.jpg", "nb":"0" },
+      { "id": 3, "title": "Stand On Zanzibar", "author": "John Brunner", "price":"10", "img":"/images/imgZanzibar.jpg", "nb":"0" },
+      { "id": 4, "title": "Spin", "author": "Robert Charles Wilson", "price":"7", "img":"/images/imgSpin.jpg", "nb":"0" },
+      { "id": 5, "title": "Hyperion", "author": "Dan Simmons", "price":"8", "img":"/images/imgHyperion.jpg", "nb":"0" }
+
+
+
+
+    ]
   }
-}
