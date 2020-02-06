@@ -2,12 +2,14 @@
   "name": "buy-sf-books",
   "version": "0.1.0",
   "private": true,
+  "homepage":"https://pariatol.github.io/buy-sf-books",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
     "axios": "^0.19.2",
     "bootstrap": "^4.4.1",
+    "gh-pages": "^2.2.0",
     "json-server": "^0.15.1",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
@@ -15,6 +17,7 @@
     "react-scripts": "3.3.1"
   },
   "scripts": {
+    "deploy":"npm run build&&gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
