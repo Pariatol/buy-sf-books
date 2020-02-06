@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "090a07022b028b0c997b49d8f6f6e957",
+    "revision": "93742bfc57d3b9b8f0795341c63c89f0",
     "url": "/buy-sf-books/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/buy-sf-books/static/css/2.47e06e2e.chunk.css"
   },
   {
-    "revision": "8051ce8bdf6f7f271467",
+    "revision": "378865e1546a887328fe",
     "url": "/buy-sf-books/static/css/main.f16ebe75.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/buy-sf-books/static/js/2.78a7bbe4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8051ce8bdf6f7f271467",
-    "url": "/buy-sf-books/static/js/main.f3ed1bc3.chunk.js"
+    "revision": "378865e1546a887328fe",
+    "url": "/buy-sf-books/static/js/main.b0cae96c.chunk.js"
   },
   {
     "revision": "5713b7a6535b7c8c9712",
