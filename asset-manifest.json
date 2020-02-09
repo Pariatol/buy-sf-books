@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/buy-sf-books/static/css/main.f16ebe75.chunk.css",
+    "main.css": "/buy-sf-books/static/css/main.04b3d388.chunk.css",
     "main.js": "/buy-sf-books/static/js/main.b0cae96c.chunk.js",
     "main.js.map": "/buy-sf-books/static/js/main.b0cae96c.chunk.js.map",
     "runtime-main.js": "/buy-sf-books/static/js/runtime-main.83ed29eb.js",
@@ -9,10 +9,10 @@
     "static/js/2.78a7bbe4.chunk.js": "/buy-sf-books/static/js/2.78a7bbe4.chunk.js",
     "static/js/2.78a7bbe4.chunk.js.map": "/buy-sf-books/static/js/2.78a7bbe4.chunk.js.map",
     "index.html": "/buy-sf-books/index.html",
-    "precache-manifest.386c7270ed83e2367eda6b805ccfbde8.js": "/buy-sf-books/precache-manifest.386c7270ed83e2367eda6b805ccfbde8.js",
+    "precache-manifest.8741b98553a1120bddcf86d43a56d5bc.js": "/buy-sf-books/precache-manifest.8741b98553a1120bddcf86d43a56d5bc.js",
     "service-worker.js": "/buy-sf-books/service-worker.js",
     "static/css/2.47e06e2e.chunk.css.map": "/buy-sf-books/static/css/2.47e06e2e.chunk.css.map",
-    "static/css/main.f16ebe75.chunk.css.map": "/buy-sf-books/static/css/main.f16ebe75.chunk.css.map",
+    "static/css/main.04b3d388.chunk.css.map": "/buy-sf-books/static/css/main.04b3d388.chunk.css.map",
     "static/js/2.78a7bbe4.chunk.js.LICENSE.txt": "/buy-sf-books/static/js/2.78a7bbe4.chunk.js.LICENSE.txt",
     "static/media/App.css": "/buy-sf-books/static/media/bg.ceca0a1f.jpg"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.83ed29eb.js",
     "static/css/2.47e06e2e.chunk.css",
     "static/js/2.78a7bbe4.chunk.js",
-    "static/css/main.f16ebe75.chunk.css",
+    "static/css/main.04b3d388.chunk.css",
     "static/js/main.b0cae96c.chunk.js"
   ]
 }
