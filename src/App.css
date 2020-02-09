@@ -84,4 +84,12 @@ table{
     height:30rem;
     width:40rem;
   }
+
+  .caddie{
+    font-size:1.1rem;
+  }
+
+  .far{
+    font-size:1.5rem;
+  }
 }
